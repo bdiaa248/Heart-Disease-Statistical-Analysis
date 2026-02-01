@@ -9,8 +9,8 @@
 
 <br />
 
-![Project Banner](Case_Study_Final.jpg)
-*(Note: Replace 'Name_Of_Your_Long_Image.jpg' with your actual image filename)*
+![Project Banner](assets/Case_Study_Final.jpg)
+
 
 </div>
 
