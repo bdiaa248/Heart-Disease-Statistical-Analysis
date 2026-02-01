@@ -1,7 +1,6 @@
 # Heart Disease Statistical Analysis 🫀📊
 
-![Project Banner](assets/Name_Of_Your_Long_Image.jpg)
-*(Replace 'Name_Of_Your_Long_Image.jpg' with the actual name of your image inside the assets folder)*
+![Project Banner](assets/Case_Study_Final.jpg)
 
 ## 📌 Project Overview
 A comprehensive statistical analysis of 1,025 clinical patient records to identify physiological markers associated with heart disease. This project moves beyond raw data to provide **99.9% confident clinical insights** using inferential statistics.
